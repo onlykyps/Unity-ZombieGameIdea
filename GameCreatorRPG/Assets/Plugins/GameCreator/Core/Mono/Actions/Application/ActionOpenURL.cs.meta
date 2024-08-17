@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: f576e88ffc645470186db28d30709b15
-labels:
-- Actions
-- GameCreator
-timeCreated: 1493664595
-licenseType: Free
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2815dbdf7803d60003728e767032a459b9a742ab60c206ecddad61ccdced435
+size 295

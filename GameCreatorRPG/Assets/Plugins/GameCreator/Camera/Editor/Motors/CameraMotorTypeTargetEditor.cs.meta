@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: aff8975ea140742c5bf5d4832be78632
-labels:
-- Camera
-- CameraMotor
-- GameCreator
-timeCreated: 1490731955
-licenseType: Free
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa15463a506f991072ae4367f443dba59331bb45b3dbb402d7e5a3c347f21dd9
+size 308

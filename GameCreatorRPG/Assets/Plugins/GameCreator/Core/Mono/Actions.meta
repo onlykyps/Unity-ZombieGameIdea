@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: 86f78b509c8f1477bb7d159dfd163cee
-labels:
-- Actions
-folderAsset: yes
-timeCreated: 1485601156
-licenseType: Free
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:217f79d63e098ae563fae674c8c675de9525c543a6a5da4b62c7e38353c76179
+size 210
